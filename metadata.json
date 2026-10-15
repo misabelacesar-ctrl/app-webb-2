@@ -1,0 +1,6 @@
+{
+  "name": "PCP Manufatura ERP - Planejamento e Controle de Produção",
+  "description": "Sistema completo de ERP e PCP para pequenas empresas de manufatura: fichas técnicas, controle de matérias-primas, capacidade produtiva, pedidos, ordens de produção, kanban e emissão de OPs com responsável técnico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
